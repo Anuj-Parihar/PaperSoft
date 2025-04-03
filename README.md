@@ -1,1 +1,1 @@
-#The Paperless Handling of Documents system is a LAN-based MERN stack application that enables seamless virtual document transfer within a battalion. It reduces paper usage, enhances efficiency, and improves accountability in document management.
+The Paperless Handling of Documents system is a LAN-based MERN stack application that enables seamless virtual document transfer within a battalion. It reduces paper usage, enhances efficiency, and improves accountability in document management.
